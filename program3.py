@@ -1,0 +1,13 @@
+import numpy as np
+arr = np.array([1,2,3,4])
+nums=np.array([[1,2,3],[4,5,6]])
+a1=np.arange(1,11)
+a2=np.arange(2,22,2)
+print(arr)
+print(nums)
+print(np.zeros(3))
+print(np.ones(3))
+print(a1)
+print(nums.shape)
+print(a2)
+print(nums.ndim)
