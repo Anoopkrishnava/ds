@@ -1,0 +1,124 @@
+{
+  "applicants": [
+    {
+      "income": 65,
+      "credit_score": 760,
+      "existing_loan": 10,
+      "decision": "Approved"
+    },
+    {
+      "income": 55,
+      "credit_score": 720,
+      "existing_loan": 8,
+      "decision": "Approved"
+    },
+    {
+      "income": 80,
+      "credit_score": 790,
+      "existing_loan": 15,
+      "decision": "Approved"
+    },
+    {
+      "income": 45,
+      "credit_score": 700,
+      "existing_loan": 5,
+      "decision": "Approved"
+    },
+    {
+      "income": 72,
+      "credit_score": 750,
+      "existing_loan": 12,
+      "decision": "Approved"
+    },
+    {
+      "income": 90,
+      "credit_score": 810,
+      "existing_loan": 20,
+      "decision": "Approved"
+    },
+    {
+      "income": 60,
+      "credit_score": 735,
+      "existing_loan": 7,
+      "decision": "Approved"
+    },
+    {
+      "income": 50,
+      "credit_score": 710,
+      "existing_loan": 6,
+      "decision": "Approved"
+    },
+    {
+      "income": 85,
+      "credit_score": 780,
+      "existing_loan": 18,
+      "decision": "Approved"
+    },
+    {
+      "income": 68,
+      "credit_score": 745,
+      "existing_loan": 9,
+      "decision": "Approved"
+    },
+    {
+      "income": 30,
+      "credit_score": 580,
+      "existing_loan": 25,
+      "decision": "Rejected"
+    },
+    {
+      "income": 35,
+      "credit_score": 620,
+      "existing_loan": 30,
+      "decision": "Rejected"
+    },
+    {
+      "income": 40,
+      "credit_score": 650,
+      "existing_loan": 35,
+      "decision": "Rejected"
+    },
+    {
+      "income": 25,
+      "credit_score": 560,
+      "existing_loan": 20,
+      "decision": "Rejected"
+    },
+    {
+      "income": 48,
+      "credit_score": 640,
+      "existing_loan": 40,
+      "decision": "Rejected"
+    },
+    {
+      "income": 32,
+      "credit_score": 600,
+      "existing_loan": 18,
+      "decision": "Rejected"
+    },
+    {
+      "income": 42,
+      "credit_score": 630,
+      "existing_loan": 28,
+      "decision": "Rejected"
+    },
+    {
+      "income": 38,
+      "credit_score": 610,
+      "existing_loan": 32,
+      "decision": "Rejected"
+    },
+    {
+      "income": 28,
+      "credit_score": 590,
+      "existing_loan": 22,
+      "decision": "Rejected"
+    },
+    {
+      "income": 45,
+      "credit_score": 660,
+      "existing_loan": 38,
+      "decision": "Rejected"
+    }
+  ]
+}

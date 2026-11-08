@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "study_hours": 1,
+      "mark": 20
+    },
+    {
+      "study_hours": 2,
+      "mark": 25
+    },
+    {
+      "study_hours": 3,
+      "mark": 35
+    },
+    {
+      "study_hours": 4,
+      "mark": 40
+    },
+    {
+      "study_hours": 5,
+      "mark": 50
+    },
+    {
+      "study_hours": 6,
+      "mark": 55
+    },
+    {
+      "study_hours": 7,
+      "mark": 65
+    },
+    {
+      "study_hours": 8,
+      "mark": 70
+    },
+    {
+      "study_hours": 9,
+      "mark": 80
+    },
+    {
+      "study_hours": 10,
+      "mark": 90
+    },
+    {
+      "study_hours": 1.5,
+      "mark": 22
+    },
+    {
+      "study_hours": 2.5,
+      "mark": 30
+    },
+    {
+      "study_hours": 3.5,
+      "mark": 38
+    },
+    {
+      "study_hours": 4.5,
+      "mark": 45
+    },
+    {
+      "study_hours": 5.5,
+      "mark": 52
+    },
+    {
+      "study_hours": 6.5,
+      "mark": 60
+    },
+    {
+      "study_hours": 7.5,
+      "mark": 68
+    },
+    {
+      "study_hours": 8.5,
+      "mark": 75
+    },
+    {
+      "study_hours": 9.5,
+      "mark": 85
+    },
+    {
+      "study_hours": 10.5,
+      "mark": 92
+    }
+  ]
+}

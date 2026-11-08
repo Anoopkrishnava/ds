@@ -1,0 +1,84 @@
+{
+  "customers": [
+    {
+      "annual_income": 20,
+      "spending_score": 25
+    },
+    {
+      "annual_income": 22,
+      "spending_score": 30
+    },
+    {
+      "annual_income": 25,
+      "spending_score": 20
+    },
+    {
+      "annual_income": 18,
+      "spending_score": 35
+    },
+    {
+      "annual_income": 30,
+      "spending_score": 28
+    },
+    {
+      "annual_income": 70,
+      "spending_score": 75
+    },
+    {
+      "annual_income": 75,
+      "spending_score": 80
+    },
+    {
+      "annual_income": 80,
+      "spending_score": 70
+    },
+    {
+      "annual_income": 68,
+      "spending_score": 85
+    },
+    {
+      "annual_income": 85,
+      "spending_score": 78
+    },
+    {
+      "annual_income": 40,
+      "spending_score": 50
+    },
+    {
+      "annual_income": 45,
+      "spending_score": 55
+    },
+    {
+      "annual_income": 50,
+      "spending_score": 48
+    },
+    {
+      "annual_income": 55,
+      "spending_score": 52
+    },
+    {
+      "annual_income": 42,
+      "spending_score": 45
+    },
+    {
+      "annual_income": 25,
+      "spending_score": 80
+    },
+    {
+      "annual_income": 30,
+      "spending_score": 75
+    },
+    {
+      "annual_income": 20,
+      "spending_score": 85
+    },
+    {
+      "annual_income": 80,
+      "spending_score": 20
+    },
+    {
+      "annual_income": 75,
+      "spending_score": 25
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "sales_data": [
+    {
+      "advertising": 5,
+      "sales": 15
+    },
+    {
+      "advertising": 10,
+      "sales": 20
+    },
+    {
+      "advertising": 15,
+      "sales": 28
+    },
+    {
+      "advertising": 20,
+      "sales": 35
+    },
+    {
+      "advertising": 25,
+      "sales": 40
+    },
+    {
+      "advertising": 30,
+      "sales": 48
+    },
+    {
+      "advertising": 35,
+      "sales": 55
+    },
+    {
+      "advertising": 40,
+      "sales": 60
+    },
+    {
+      "advertising": 45,
+      "sales": 68
+    },
+    {
+      "advertising": 50,
+      "sales": 75
+    },
+    {
+      "advertising": 8,
+      "sales": 18
+    },
+    {
+      "advertising": 18,
+      "sales": 32
+    },
+    {
+      "advertising": 22,
+      "sales": 36
+    },
+    {
+      "advertising": 28,
+      "sales": 45
+    },
+    {
+      "advertising": 33,
+      "sales": 52
+    },
+    {
+      "advertising": 38,
+      "sales": 58
+    },
+    {
+      "advertising": 42,
+      "sales": 64
+    },
+    {
+      "advertising": 48,
+      "sales": 72
+    },
+    {
+      "advertising": 12,
+      "sales": 23
+    },
+    {
+      "advertising": 37,
+      "sales": 56
+    }
+  ]
+}

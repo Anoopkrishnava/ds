@@ -1,0 +1,104 @@
+{
+  "houses": [
+    {
+      "area": 800,
+      "bedrooms": 2,
+      "price": 25
+    },
+    {
+      "area": 900,
+      "bedrooms": 2,
+      "price": 28
+    },
+    {
+      "area": 1000,
+      "bedrooms": 2,
+      "price": 32
+    },
+    {
+      "area": 1100,
+      "bedrooms": 3,
+      "price": 38
+    },
+    {
+      "area": 1200,
+      "bedrooms": 3,
+      "price": 42
+    },
+    {
+      "area": 1300,
+      "bedrooms": 3,
+      "price": 45
+    },
+    {
+      "area": 1400,
+      "bedrooms": 3,
+      "price": 50
+    },
+    {
+      "area": 1500,
+      "bedrooms": 4,
+      "price": 55
+    },
+    {
+      "area": 1600,
+      "bedrooms": 4,
+      "price": 60
+    },
+    {
+      "area": 1700,
+      "bedrooms": 4,
+      "price": 65
+    },
+    {
+      "area": 850,
+      "bedrooms": 2,
+      "price": 27
+    },
+    {
+      "area": 950,
+      "bedrooms": 2,
+      "price": 30
+    },
+    {
+      "area": 1050,
+      "bedrooms": 3,
+      "price": 35
+    },
+    {
+      "area": 1150,
+      "bedrooms": 3,
+      "price": 40
+    },
+    {
+      "area": 1250,
+      "bedrooms": 3,
+      "price": 43
+    },
+    {
+      "area": 1350,
+      "bedrooms": 3,
+      "price": 48
+    },
+    {
+      "area": 1450,
+      "bedrooms": 4,
+      "price": 53
+    },
+    {
+      "area": 1550,
+      "bedrooms": 4,
+      "price": 58
+    },
+    {
+      "area": 1650,
+      "bedrooms": 4,
+      "price": 63
+    },
+    {
+      "area": 1750,
+      "bedrooms": 4,
+      "price": 68
+    }
+  ]
+}

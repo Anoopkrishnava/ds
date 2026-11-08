@@ -1,0 +1,84 @@
+{
+  "students": [
+    {
+      "study_hours": 2,
+      "attendance": 60
+    },
+    {
+      "study_hours": 3,
+      "attendance": 65
+    },
+    {
+      "study_hours": 4,
+      "attendance": 70
+    },
+    {
+      "study_hours": 2.5,
+      "attendance": 62
+    },
+    {
+      "study_hours": 5,
+      "attendance": 75
+    },
+    {
+      "study_hours": 6,
+      "attendance": 80
+    },
+    {
+      "study_hours": 7,
+      "attendance": 85
+    },
+    {
+      "study_hours": 5.5,
+      "attendance": 78
+    },
+    {
+      "study_hours": 8,
+      "attendance": 90
+    },
+    {
+      "study_hours": 9,
+      "attendance": 95
+    },
+    {
+      "study_hours": 7.5,
+      "attendance": 88
+    },
+    {
+      "study_hours": 10,
+      "attendance": 98
+    },
+    {
+      "study_hours": 1,
+      "attendance": 50
+    },
+    {
+      "study_hours": 1.5,
+      "attendance": 55
+    },
+    {
+      "study_hours": 3.5,
+      "attendance": 68
+    },
+    {
+      "study_hours": 6.5,
+      "attendance": 82
+    },
+    {
+      "study_hours": 8.5,
+      "attendance": 92
+    },
+    {
+      "study_hours": 4.5,
+      "attendance": 72
+    },
+    {
+      "study_hours": 9.5,
+      "attendance": 96
+    },
+    {
+      "study_hours": 2.2,
+      "attendance": 58
+    }
+  ]
+}
